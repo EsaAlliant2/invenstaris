@@ -16,7 +16,7 @@
                 <div class="card">
                     <div class="card-header">
                         <h4>
-                            Data Barang
+                            Data tempat
                         </h4>
                     </div>
 
@@ -25,7 +25,6 @@
                             <thead>
                                 <tr>
                                     <td style="width: 5%">#</td>
-                                    <td>kode</td>
                                     <td>Nama</td>
                                     <td style="width: 15%">Aksi</td>
                                 </tr>
@@ -40,7 +39,7 @@
                 <div class="card">
                     <div class="card-header">
                         <h4>
-                            Tambah Data
+                            Tambah tempat
                         </h4>
                     </div>
                 </div>
